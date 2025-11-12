@@ -29,7 +29,6 @@ public class HailStone
 	 * Find it calls the method getInput(), printSequence(), printCount()
 	 * using a do while loop. It also sets the restrictions for user input
 	 * and sets a counter for the number of times the loop runs
-	 * 
 	*/
 	public void findIt()
 	{
